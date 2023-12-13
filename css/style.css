@@ -1,0 +1,14 @@
+
+h1{
+    text-align: center;
+    background: linear-gradient(to right, rgb(79, 7, 179), rgb(216, 223, 17), rgb(10, 184, 247));
+}
+
+h2{
+    text-align: center;
+}
+
+
+#pics{
+    background-color: aqua;
+}
